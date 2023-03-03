@@ -1,0 +1,44 @@
+{
+  "id": "3825870",
+  "name": "water-vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "water-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10304530",
+      "name": "points",
+      "font_class": "points",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "12669153",
+      "name": "circle",
+      "font_class": "circle",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "13990903",
+      "name": "line",
+      "font_class": "line",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "22329468",
+      "name": "polygon",
+      "font_class": "polygon",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "22813404",
+      "name": "drawing",
+      "font_class": "drawing",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}

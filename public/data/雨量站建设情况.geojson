@@ -1,0 +1,4829 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.071842,
+     29.681067
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.13469,
+     29.821977
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.890101,
+     29.786747
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.057971,
+     31.369048
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.892084,
+     32.038158
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.096311,
+     30.040474
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.079033,
+     30.006436
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.251339,
+     30.190508
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.045953,
+     31.360424
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.266532,
+     32.238195
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.034329,
+     29.701016
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "2022-04-25 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.766469,
+     30.623554
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.198506,
+     30.434033
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.872869,
+     32.411021
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.270416,
+     30.714959
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.465661,
+     31.767017
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "2022-08-22 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.038717,
+     31.185137
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "2022-02-13 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.313695,
+     29.796122
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.894364,
+     31.123113
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.457802,
+     31.631013
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.103983,
+     32.161177
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.666171,
+     30.775994
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.573848,
+     30.660855
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.98573,
+     31.074019
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.530457,
+     30.194261
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.16966,
+     30.197466
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.960128,
+     32.380819
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.849524,
+     30.24899
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.747507,
+     32.807764
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.088552,
+     30.306344
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.888519,
+     30.607074
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.185173,
+     30.302216
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "2022-01-18 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.353786,
+     30.624017
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.36148,
+     29.823196
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.804954,
+     30.276571
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.527732,
+     30.623425
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.559516,
+     31.000223
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.4784,
+     32.152618
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.758415,
+     31.767901
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.850547,
+     32.492541
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.693142,
+     30.274492
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.399728,
+     30.415958
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.31304,
+     29.691489
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.507338,
+     31.10134
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.822798,
+     29.760321
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.025186,
+     32.232827
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.027725,
+     32.23236
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.575757,
+     30.689357
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.8838,
+     29.706038
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.854785,
+     29.956121
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.101027,
+     30.370517
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.094869,
+     30.307125
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "2022-02-13 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.645541,
+     31.522918
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.188834,
+     30.195526
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "2022-08-17 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.971432,
+     30.207865
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-06-28 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.88089,
+     29.995008
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.950485,
+     32.079306
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.199919,
+     30.415601
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "2022-06-28 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.12699,
+     32.184379
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.482994,
+     30.615818
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.93404,
+     30.120555
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.959707,
+     30.688991
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.717017,
+     32.416318
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.961909,
+     30.584343
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.286831,
+     29.975508
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.932789,
+     31.098995
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "2022-04-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.350986,
+     33.131464
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.804021,
+     30.29762
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.150085,
+     32.222683
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.425204,
+     31.310578
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "2022-03-05 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.732568,
+     30.96286
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.705734,
+     32.578806
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "2022-01-18 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.952815,
+     29.773429
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.815616,
+     30.771683
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.852184,
+     30.290785
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.179107,
+     29.954752
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.571938,
+     29.968594
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-06-28 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.289418,
+     30.570235
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.9534,
+     32.27058
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.327211,
+     32.088637
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.907845,
+     30.865691
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.040905,
+     30.273606
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.841858,
+     30.151037
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.351147,
+     29.793469
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.715307,
+     31.347086
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.439229,
+     29.958198
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.371528,
+     29.957397
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.248575,
+     32.648706
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.853645,
+     30.774768
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.729927,
+     32.564898
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.082391,
+     30.026422
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.869848,
+     30.541228
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.499171,
+     31.733872
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.472891,
+     32.157347
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.800465,
+     31.981708
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.26582,
+     32.234704
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.224738,
+     30.118966
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.471505,
+     32.495498
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.311862,
+     32.126251
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.953459,
+     29.678874
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.515682,
+     29.612722
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.023558,
+     30.026501
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.464091,
+     29.981179
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.846147,
+     29.950439
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.680087,
+     32.81337
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.819475,
+     30.667193
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.300961,
+     30.481513
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.76296,
+     30.548559
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.586277,
+     30.645178
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "2022-03-05 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.17455,
+     30.199321
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.786297,
+     32.161461
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.803568,
+     30.297412
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.833777,
+     32.063369
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.023189,
+     33.219663
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.559671,
+     30.762766
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.310023,
+     32.213469
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.348716,
+     29.654024
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.861203,
+     31.732492
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.841073,
+     31.736973
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.290667,
+     31.719602
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.389075,
+     30.688092
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.729356,
+     31.781523
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.994946,
+     30.274452
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.651973,
+     30.227393
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "2022-01-14 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.985719,
+     30.622557
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.148288,
+     30.023588
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.762042,
+     30.379814
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.284937,
+     30.566757
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.022701,
+     32.739858
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.476863,
+     31.417088
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "2022-06-28 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.889762,
+     29.786831
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.292418,
+     30.027592
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.275261,
+     30.725024
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.544306,
+     31.024859
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.163196,
+     30.245577
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.514773,
+     32.615104
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.362047,
+     29.827659
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "2022-02-26 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.139589,
+     32.137818
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "2022-10-25 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.897127,
+     29.673547
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "2022-07-29 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.775725,
+     31.139102
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.33489,
+     29.354556
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.504379,
+     29.798659
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.385866,
+     30.686401
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.24382,
+     30.060022
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "2022-04-25 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.954623,
+     30.701882
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.026771,
+     29.823788
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.970521,
+     29.705035
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.807045,
+     29.9218
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "2022-06-28 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.095445,
+     32.064198
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.263536,
+     30.764206
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.910532,
+     32.434976
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "2022-02-13 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.946255,
+     30.321984
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.396695,
+     30.690881
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.323292,
+     29.762282
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "2022-04-25 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.41658,
+     31.031499
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.883518,
+     29.977954
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.923828,
+     32.024404
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.801218,
+     31.176856
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.103511,
+     30.784596
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.162418,
+     30.239405
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.253918,
+     31.596148
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.42491,
+     30.447805
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.174317,
+     32.068552
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.504643,
+     29.818371
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.305646,
+     29.837242
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.892319,
+     30.546764
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.881348,
+     30.000899
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.110251,
+     31.516785
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.361525,
+     29.83957
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.484203,
+     32.162747
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.837616,
+     32.060643
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.179718,
+     32.223333
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-10-18 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.433928,
+     30.491244
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.701946,
+     32.450057
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.262996,
+     30.125852
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.915256,
+     31.093723
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-01-10 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.656802,
+     32.412728
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.205948,
+     31.743341
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.11267,
+     32.157826
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.097313,
+     30.787908
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "2022-01-23 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.820598,
+     30.592772
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.750163,
+     31.108326
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.417709,
+     29.37286
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "2022-01-23 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.944833,
+     30.692639
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.17091,
+     30.818228
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.582768,
+     32.048866
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.265523,
+     30.764773
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.417376,
+     31.259815
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.573352,
+     30.694753
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.750872,
+     29.857512
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "2022-10-25 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.737565,
+     30.959917
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.213956,
+     30.202303
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.311237,
+     30.411263
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "2022-01-23 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.976997,
+     30.304779
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.497075,
+     32.084499
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.270952,
+     30.007582
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "2022-04-25 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.27662,
+     29.853851
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "2022-01-03 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.957971,
+     30.032103
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.782198,
+     32.161984
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.911863,
+     30.031976
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "2022-04-25 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.945196,
+     30.692442
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.050699,
+     30.015365
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "2022-01-18 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.322109,
+     31.63906
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.785196,
+     31.177025
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.115482,
+     32.159324
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.2647,
+     30.764538
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.104444,
+     30.366035
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.836465,
+     30.775033
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.266874,
+     31.35866
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.861253,
+     30.771122
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-07-29 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.196256,
+     30.581186
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.211473,
+     30.143841
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.48157,
+     32.379774
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.282599,
+     30.747085
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.639221,
+     32.427521
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-10-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.615617,
+     32.155505
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-07-29 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.186029,
+     32.077869
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-10-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.920746,
+     30.877417
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.230469,
+     29.194107
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.773419,
+     30.557878
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.943578,
+     30.033807
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "2022-08-17 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.819826,
+     29.763569
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.467436,
+     29.789551
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.636286,
+     32.795878
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.866785,
+     29.732139
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-01-14 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.289796,
+     31.017246
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位2",
+    "process": "25%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.124551,
+     33.15151
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.214864,
+     31.847826
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.962288,
+     30.642071
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.091402,
+     32.028968
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.143934,
+     32.154562
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.990233,
+     30.532135
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-01-10 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.048011,
+     30.070462
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "100%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "2022-02-26 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.062735,
+     30.595662
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "2022-02-13 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.91024,
+     30.007718
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.871206,
+     30.62323
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-04-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.828689,
+     30.445238
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.446586,
+     30.490687
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.10924,
+     32.591184
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.768977,
+     30.898855
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.238638,
+     30.131259
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.558846,
+     30.900916
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.864564,
+     32.049936
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.400889,
+     30.663599
+    ]
+   },
+   "properties": {
+    "project": "项目5",
+    "unit": "单位4",
+    "process": "75%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.705253,
+     29.746238
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.314827,
+     32.624477
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "25%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.429647,
+     30.490896
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "2022-02-13 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.192463,
+     32.196228
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.661599,
+     32.277733
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位2",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.104966,
+     30.046787
+    ]
+   },
+   "properties": {
+    "project": "项目1",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-01-23 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.802138,
+     30.313097
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.479844,
+     29.778326
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-09-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.338301,
+     32.277956
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "0%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.896373,
+     29.998364
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位3",
+    "process": "50%",
+    "starttime": "2022-08-17 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.653419,
+     31.70404
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位3",
+    "process": "75%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.015207,
+     30.985114
+    ]
+   },
+   "properties": {
+    "project": "项目4",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-02-13 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.759954,
+     30.660489
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位3",
+    "process": "25%",
+    "starttime": "2022-06-28 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.885872,
+     29.03435
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-07-06 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.641181,
+     32.791663
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位1",
+    "process": "75%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.3093,
+     31.031233
+    ]
+   },
+   "properties": {
+    "project": "项目3",
+    "unit": "单位2",
+    "process": "75%",
+    "starttime": "2022-08-22 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.884343,
+     30.523753
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位4",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.289071,
+     30.569805
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位4",
+    "process": "50%",
+    "starttime": "2022-04-15 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.765796,
+     30.893358
+    ]
+   },
+   "properties": {
+    "project": "项目8",
+    "unit": "单位2",
+    "process": "100%",
+    "starttime": "2022-11-08 00:00:00",
+    "buildtime": "2022-11-08 00:00:00",
+    "status": "unonline"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.829685,
+     31.68222
+    ]
+   },
+   "properties": {
+    "project": "项目6",
+    "unit": "单位1",
+    "process": "25%",
+    "starttime": "2022-01-03 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78146,
+     30.578667
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位3",
+    "process": "0%",
+    "starttime": "2022-01-18 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.292498,
+     31.716578
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-02-26 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.087038,
+     29.867009
+    ]
+   },
+   "properties": {
+    "project": "项目2",
+    "unit": "单位2",
+    "process": "50%",
+    "starttime": "2022-03-05 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.292302,
+     32.109544
+    ]
+   },
+   "properties": {
+    "project": "项目7",
+    "unit": "单位1",
+    "process": "50%",
+    "starttime": "2022-04-25 00:00:00",
+    "buildtime": "None",
+    "status": "None"
+   }
+  }
+ ]
+}

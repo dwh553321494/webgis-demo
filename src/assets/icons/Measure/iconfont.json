@@ -1,0 +1,37 @@
+{
+  "id": "3825891",
+  "name": "measure",
+  "font_family": "iconfont",
+  "css_prefix_text": "water-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10265381",
+      "name": "area",
+      "font_class": "area",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18483856",
+      "name": "测量工具",
+      "font_class": "measure",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "22383152",
+      "name": "固定长度绘制线",
+      "font_class": "length",
+      "unicode": "edda",
+      "unicode_decimal": 60890
+    },
+    {
+      "icon_id": "28115501",
+      "name": "S坐标提取",
+      "font_class": "coordinate",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    }
+  ]
+}

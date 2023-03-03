@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3825870 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1670999808127') format('woff2'),
+       url('iconfont.woff?t=1670999808127') format('woff'),
+       url('iconfont.ttf?t=1670999808127') format('truetype');
+}
+
+[class^="water"], [class*="water"] {
+  font-family:"iconfont" !important;
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: 24px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.water-points:before {
+  content: "\e626";
+}
+
+.water-circle:before {
+  content: "\e625";
+}
+
+.water-line:before {
+  content: "\e61a";
+}
+
+.water-polygon:before {
+  content: "\e6b9";
+}
+
+.water-drawing:before {
+  content: "\e636";
+}
+
